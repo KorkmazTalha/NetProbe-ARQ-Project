@@ -1,6 +1,6 @@
 # NetProbe Project: Application-Layer Stop-and-Wait ARQ Protocol
 
-Bu proje, güvensiz ve paket kayıplarına açık bir taşıma katmanı protokolü olan **UDP** üzerinde, uygulama katmanında (Application Layer) sıfırdan geliştirilmiş bir **Stop-and-Wait ARQ (Automatic Repeat Request)** güvenilir veri iletim protokolü simülasyonudur. Sistem; kontrolsüz ağ ortamlarında yapay paket kayıpları ve ağ gecikmeleri (RTT) altında bile verinin alıcı tarafa %100 kararlılıkla, MD5 bütünlük doğrulamalı ve hatasız ulaştırılmasını garanti eder.
+Bu proje, güvensiz ve paket kayıplarına açık bir taşıma katmanı protokolü olan **UDP** üzerinde, uygulama katmanında (Application Layer) sıfırdan geliştirilmiş bir **Stop-and-Wait ARQ (Automatic Repeat Request)** güvenilir veri iletim protokolü simülasyonudur. 
 
 ## 🚀 Bağımlılıklar (Dependencies)
 
