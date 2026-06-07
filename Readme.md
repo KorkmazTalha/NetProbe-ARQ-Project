@@ -109,4 +109,4 @@ Sistem, gerçekleştirilen simülasyonlarda Stop-and-Wait ARQ protokolünün kar
 
 Projenin güncel kaynak kodlarına, log geçmişine ve rapor dokümanlarına aşağıdaki depo (repository) üzerinden erişebilirsiniz:
 
-* **GitHub Repository:** https://github.com/kullanici_adin/NetProbe_Project
+* **GitHub Repository:** https://github.com/KorkmazTalha/NetProbe-ARQ-Project
